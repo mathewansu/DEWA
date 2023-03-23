@@ -1,4 +1,4 @@
-# DEWA
+# ML_models
 Robotics
 
 Out of linear regression,decision tree, random forest and Neural networks, Root Mean square error is less for Neural networks.
